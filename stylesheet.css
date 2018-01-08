@@ -1,0 +1,44 @@
+.card-block {
+  background-color: #dee;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: Ariel, monospace;
+}
+h2 {
+  margin-top: 50px;
+}
+h3 {
+  font-size: 16px;
+  font-family: Ariel, monospace;
+}
+.card {
+  margin-left:auto;
+  margin-right:auto;
+  background-color: #dee;
+  width: 75%;
+}
+
+.form-control {
+  margin-left:auto;
+  margin-right:auto;
+  width : 200px;
+  
+}
+body {
+  font-family: Ariel, monospace;
+  text-align: center;
+}
+#search {
+  margin-top: 25px;
+}
+#random {
+  margin-top: 25px;
+}
+#searchButton {
+  margin-botton: 125px;
+}
+.space {
+  margin-top: 25px;
+}
